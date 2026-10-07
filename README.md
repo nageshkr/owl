@@ -99,13 +99,6 @@ OWL can check for new versions and update itself (downloads are verified before 
 
 ---
 
-## Screenshots
-
-> _Add a few screenshots here to show OWL off — e.g. the Notes view with the assistant panel, the Dashboard, My Day, and the themes. Drop images in `docs/screenshots/` and reference them like:_
->
-
----
-
 ## Tech stack
 
 Tauri v2 · Rust · Vue 3 + TypeScript · Vite · Pinia · SQLite (FTS5 + sqlite-vec) · llama.cpp / Ollama · Tiptap + CodeMirror.
