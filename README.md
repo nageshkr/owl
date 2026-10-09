@@ -123,6 +123,6 @@ As plain `.md` files in OWL's app-data vault, so you can back them up or read th
 It isn't — it's unsigned. See the [install note above](#️-owl-is-damaged-and-cant-be-opened--read-this).
 
 **Is there a Windows/Linux version?**
-Not packaged yet, but the stack supports it and you can build from source.
+Not packaged yet, but can be made avilable.
 
 ---
